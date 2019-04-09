@@ -83,13 +83,13 @@ public class OperExpre {
 //		num >>= 5;
 //		System.out.println(num);
 		
-		int i = 5;
-		long l = 1;
-		System.out.println(l);
-		
-		long ll = 5555555555555555L;
-		int ii = (int) ll;
-		System.out.println(ii + "\n" + ll);
+//		int i = 5;
+//		long l = 1;
+//		System.out.println(l);
+//		
+//		long ll = 5555555555555555L;
+//		int ii = (int) ll;
+//		System.out.println(ii + "\n" + ll);
 		
 	}
 
